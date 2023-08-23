@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shiyi.
 - 🔢 I’m interested in data stuff.
-- 🌱 I’m currently learning AWS Services.
-- 💞️ I’m looking to collaborate on all kinds of projects.
+- 🌱 I’m currently learning different cloud computing services (mainly focused in AWS and Azure).
+- 💞️ I’m looking to collaborate on all kinds of ideas and projects.
 - 📫 How to reach me? Write me an email at shiys3447@gmail.com.
 
 <!---
