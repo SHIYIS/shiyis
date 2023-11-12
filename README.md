@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shiyi.
 - 🔢 I’m interested in data.
-- 🌱 I’m currently learning different cloud platform (mainly focused in AWS).
+- 🌱 I’m currently learning different cloud platforms (mainly focused in AWS).
 - 💕 Write me an email at shiys3447@gmail.com
 
 <!---
