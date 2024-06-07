@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shiyi.
-- 🔢 I’m interested in leveraging data savvy for social good.
+- 🔢 I’m interested in applying data savvy for social good.
 - 🌱 I’m currently learning different cloud platforms (mainly focused in GCP).
 - 💕 Write me an email at shiyis@brandeis.edu.
 
