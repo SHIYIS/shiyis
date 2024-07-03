@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shiyi.
-- 🔢 I’m interested in applying data related technologies and concepts.
+- 🔢 I’m interested in data related technologies and concepts.
 - 🌱 I’m also learning different cloud platforms (mainly focused in GCP).
 - 💕 Write me an email at shiyis@brandeis.edu.
 
