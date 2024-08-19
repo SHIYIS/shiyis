@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shiyi.
+- 👋🏻 Hi, I’m Shiyi.
 - 📊 I’m interested in language and data related technologies and concepts.
 - 🌱 I’m also learning different cloud platforms (mainly focused in GCP and AWS).
 - 📧 Write me an email at shiyis@brandeis.edu.
